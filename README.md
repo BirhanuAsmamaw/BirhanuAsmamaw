@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **react,Next.js**
 
-- 📫 How to reach me **birhanuasmamaw24@gmial.com**
+- 📫 How to reach me **birhanuasmamaw24@gmail.com**
 
 
 
