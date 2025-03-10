@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nest.js**
 
-- 💬 Ask me about **react,Next.js**
+- 💬 Ask me about **react,Next.js,Flutter**
 
 - 📫 How to reach me **birhanuasmamaw24@gmail.com**
 
