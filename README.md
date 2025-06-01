@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birhanuasmamaw&label=Profile%20views&color=0e75b6&style=flat" alt="birhanuasmamaw" /> </p>
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **FastAPI**
 
-- 💬 Ask me about **react,Next.js,Flutter**
+- 💬 Ask me about **React,Next.js,Flutter,Nest.js,Python**
 
 - 📫 How to reach me **birhanuasmamaw24@gmail.com**
 
